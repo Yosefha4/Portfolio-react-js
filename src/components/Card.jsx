@@ -7,6 +7,7 @@ const CardItem = styled.div`
   height: 400px;
   border-radius: 9px;
   box-shadow: white 0px 5px 15px;
+  /* background-color: whis; */
 
   
   /* background-color: #3a3838; */
@@ -24,7 +25,7 @@ const Title = styled.h2`
   font-family: 'Times New Roman', Times, serif;
   padding-bottom: 8px;
   border-bottom: 2px solid white;
-  text-shadow: white 1px 2px 10px;
+  text-shadow: black 1px 2px 10px;
 `;
 const CardImg = styled.img`
   width: 200px;
