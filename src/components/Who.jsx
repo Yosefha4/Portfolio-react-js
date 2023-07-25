@@ -153,46 +153,46 @@ const Who = () => {
             {/* <Line src="/img/line.png"></Line>
             <SubTitle>Think outside the square space</SubTitle> */}
             <SkillCard>
-              <SkillImg src="public\img\jsImg.png" />
+              <SkillImg src="\img\jsImg.png" />
             </SkillCard>
             <SkillCard>
             
-              <SkillImg src="public\img\snakes.png" />
+              <SkillImg src="\img\snakes.png" />
             </SkillCard>
             <SkillCard>
               
-              <SkillImg src="public\img\javaImg.png" />
+              <SkillImg src="\img\javaImg.png" />
             </SkillCard>
             <SkillCard>
               
-              <SkillImg src="public\img\htmlImg.png" />
+              <SkillImg src="\img\htmlImg.png" />
             </SkillCard>
             <SkillCard>
               
-              <SkillImg src="public\img\cssImg.png" />
+              <SkillImg src="\img\cssImg.png" />
             </SkillCard>
           </WhatWeDo>
           <WhatWeDo>
             {/* <Line src="/img/line.png"></Line>
             <SubTitle>Think outside the square space</SubTitle> */}
             <SkillCard>
-              <SkillImg src="public\img\reactImg.jpg" />
+              <SkillImg src="\img\reactImg.jpg" />
             </SkillCard>
             <SkillCard>
             
-              <SkillImg src="public\img\nodImg.jpg" />
+              <SkillImg src="\img\nodImg.jpg" />
             </SkillCard>
             <SkillCard>
               
-              <SkillImg src="public\img\mongoImg.png" />
+              <SkillImg src="\img\mongoImg.png" />
             </SkillCard>
             <SkillCard>
               
-              <SkillImg src="public\img\githubIcon.png" />
+              <SkillImg src="\img\githubIcon.png" />
             </SkillCard>
             <SkillCard>
               
-              <SkillImg src="public\img\firebaselogo.png" />
+              <SkillImg src="\img\firebaselogo.png" />
             </SkillCard>
           </WhatWeDo>
           </SubCont>

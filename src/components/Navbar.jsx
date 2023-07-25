@@ -149,7 +149,7 @@ const Navbar = () => {
           {/* <Icon src="/img/search.png"></Icon> */}
           <Button>
             <a
-               href="../public\files\YosefResume.pdf" // Update this path to the correct location of your resume file
+               href="https://drive.google.com/file/d/1-p5ucb3aMWthcl80_rMC7U60CAUwHrp6/?export=download" // Update this path to the correct location of your resume file
                download="YosefResume.pdf" // Make sure the extension matches the actual file extension
                onClick={handleDownload}
                style={{textDecoration:'none', color:'white'}}

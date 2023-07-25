@@ -11,11 +11,11 @@ const CardItem = styled.div`
 
   
   /* background-color: #3a3838; */
+/* 
 
-
-  /* &:hover{
+  &:hover{
     background-color: lightcyan;
-    opacity: 0.9;
+    opacity: 0.4;
     color: red;
  } */
   
@@ -83,7 +83,7 @@ const Card = (props) => {
   return (
     <CardItem>
       <Title style={{color:`${props.titleColor}`}}>{props.name}</Title>
-      <CardImg src={`/public/img/${props.img}`} />
+      <CardImg src={`/img/${props.img}`} />
       <BtnContainer>
       <DemoButton onClick={() => window.open(`${props.demoLink}`,"_blank")}>Video</DemoButton>
       <GitButton onClick={() => window.open(`${props.gitLink}`,"_blank")}>GitHub</GitButton>
