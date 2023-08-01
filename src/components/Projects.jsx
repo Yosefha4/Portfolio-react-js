@@ -90,13 +90,14 @@ const Projects = () => {
             titleColor="red"
             img="BlooD.png"
             gitLink="https://github.com/Yosefha4/Blood_Bank"
-            demoLink="https://www.youtube.com/watch?v=8GXDdk_PLfs"
+            demoLink="https://www.youtube.com/watch?v=cyKts9Lh1jw&t=5s"
           />
           <Card
             name="Sudoko Game - BlockChain"
             titleColor="lightgrey"
             img="blockchain.png"
             gitLink="https://github.com/Yosefha4/Sudoku_Eth"
+            demoLink="https://www.youtube.com/watch?v=5Rx2U8C637M"
           />
         </CardContainer>
         <BtnContainer>
